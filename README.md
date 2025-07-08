@@ -16,7 +16,9 @@ I'm a passionate **Frontend Developer** specializing in the **MERN stack**. For 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hmughal/)
+<a href="https://www.linkedin.com/in/hmughal/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
 
 ---
 
